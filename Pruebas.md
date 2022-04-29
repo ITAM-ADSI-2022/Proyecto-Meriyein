@@ -35,6 +35,8 @@ Se grabó a los usuarios y se midio cuanto tardaba el usuario en realizar dos ac
   - Se tardó 29 segundos en la prueba 1
   - Se tardó 7 segundos en la prueba 2
 
+El tiempo promedio en la prueba 1 fue de 25.8s y en la prueba 2 fue de 6.2s.
+
 ## Observaciones
 - Los botones de los carritos podrían ser más grandes. Al principio intentó picarle a las imágenes
 - Uno de los sujetos nos sugirió separar la pantalla de checkout en dos: una donde se confirme el pedido y se pueda cambiar la cantidad de cada platillo, y otra donde se realice el pago
