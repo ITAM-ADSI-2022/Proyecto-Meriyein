@@ -11,6 +11,7 @@ Se grabó a los usuarios y se midio cuanto tardaba el usuario en realizar dos ac
 1. Alan Gallegos
 2. Emilio Cantú
 3. Rodrigo Piedras
-4. José Luis Gutierr
+4. José Luis Gutíerrez
+5. Jesús Vald
 
 ## Resultados
