@@ -12,6 +12,28 @@ Se grabó a los usuarios y se midio cuanto tardaba el usuario en realizar dos ac
 2. Emilio Cantú
 3. Rodrigo Piedras
 4. José Luis Gutíerrez
-5. Jesús Vald
+5. Jesús Valdez
 
 ## Resultados
+1. Alan
+  - Se tardó 19 segundos en la prueba 1
+  - Se tardó 4 segundos en la prueba 2
+  
+2. Emilio
+  - Se tardó 20 segundos en la prueba 1
+  - Se tardó 7 segundos en la prueba 2
+
+3. Rodrigo
+  - Se tardó 21 segundos en la prueba 1
+  - Se tardó 5 segundos en la prueba 2
+
+4. José Luis
+  - Se tardó 40 segundos en la prueba 1
+  - Se tardó 8 segundos en la prueba 2
+
+5. Jesús
+  - Se tardó 29 segundos en la prueba 1
+  - Se tardó 7 segundos en la prueba 2
+
+## Observaciones
+- Los botones de los carritos podrían ser más grandes. Al principio intentó picarle a las imágenes
